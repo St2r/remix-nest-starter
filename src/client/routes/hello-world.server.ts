@@ -1,0 +1,1 @@
+export { HelloWorldBackend } from '../../server/hello-world.server';
